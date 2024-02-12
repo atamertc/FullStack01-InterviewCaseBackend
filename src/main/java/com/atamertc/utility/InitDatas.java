@@ -16,12 +16,12 @@ public class InitDatas {
 
     @PostConstruct
     public void init() {
-        City city1 = City.builder().province("TEKİRDAĞ").districts(Set.of("Süleymanpaşa", "Saray", "Çerkezköy", "Malkara")).build();
-        City city2 = City.builder().province("EDİRNE").districts(Set.of("Keşan", "Enez", "Uzunköprü", "Lüleburgaz")).build();
-        City city3 = City.builder().province("İSTANBUL").districts(Set.of("Sarıyer", "Beşiktas", "Adalar", "Beylikdüzü")).build();
-        City city4 = City.builder().province("ANKARA").districts(Set.of("Keçiören", "Etimesgut", "Kızılcahamam")).build();
-        City city5 = City.builder().province("BALIKESİR").districts(Set.of("Ayvalık", "Bandırma", "Edremit")).build();
-        City city6 = City.builder().province("ÇANAKKALE").districts(Set.of("Ayvacık", "Bozcaada", "Eceabat", "Ezine")).build();
+        City city1 = City.builder().province("TEKİRDAĞ").districts(Set.of("Süleymanpaşa", "Saray", "Çerkezköy", "Malkara")).population(204001).build();
+        City city2 = City.builder().province("EDİRNE").districts(Set.of("Keşan", "Enez", "Uzunköprü", "Lüleburgaz")).population(411528).build();
+        City city3 = City.builder().province("İSTANBUL").districts(Set.of("Sarıyer", "Beşiktas", "Adalar", "Beylikdüzü")).population(15462452).build();
+        City city4 = City.builder().province("ANKARA").districts(Set.of("Keçiören", "Etimesgut", "Kızılcahamam")).population(5747325).build();
+        City city5 = City.builder().province("BALIKESİR").districts(Set.of("Ayvalık", "Bandırma", "Edremit")).population(1229015).build();
+        City city6 = City.builder().province("ÇANAKKALE").districts(Set.of("Ayvacık", "Bozcaada", "Eceabat", "Ezine")).population(540662).build();
 
         List<City> cities = List.of(city1, city2, city3, city4, city5, city6);
         service.saveAll(cities);
