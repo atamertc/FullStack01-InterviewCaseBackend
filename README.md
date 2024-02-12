@@ -1,6 +1,5 @@
-![1](https://github.com/atamertc/FullStack01-InterwievCaseBackend/assets/121511182/9d690682-83f1-49ec-8d9d-25b3abd04ac6)
+![1](https://github.com/atamertc/FullStack01-InterwievCaseBackend/assets/121511182/a040f7a6-54bf-4177-aac4-561f3896875a)
 
+![2](https://github.com/atamertc/FullStack01-InterwievCaseBackend/assets/121511182/2df6567b-22f7-4e9d-826e-065600fe887c)
 
-![2](https://github.com/atamertc/FullStack01-InterwievCaseBackend/assets/121511182/c1f7c44d-88ac-4058-8f52-a112e3245b0e)
-
-![3](https://github.com/atamertc/FullStack01-InterwievCaseBackend/assets/121511182/c2c6effc-bfea-4d11-93d3-3e65e7f8d239)
+![3](https://github.com/atamertc/FullStack01-InterwievCaseBackend/assets/121511182/b5f4aaca-71e3-45d5-b3aa-96bd0aefc062)
